@@ -1,4 +1,4 @@
-asa-benchmarks
+mgr-benchmarks
 ==============
 
-Benchmarsk for ASA
+Benchmarks for my master thesis
